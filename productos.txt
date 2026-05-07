@@ -1,0 +1,6 @@
+1|camisa|350|ropa
+2|labial|200|bellesa
+3|rimel|100|bellesa
+4|rubor|120|bellesa
+5|balsamo|20|bellesa
+6|contorno|100|bellesa
